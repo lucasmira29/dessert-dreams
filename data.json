@@ -1,0 +1,92 @@
+[
+    {
+        "id": 1,
+        "image": {
+            "thumbnail": "./images/image-waffle-thumbnail.jpg",
+            "desktop": "./images/image-waffle-desktop.jpg"
+        },
+        "name": "Waffle com Frutas Vermelhas",
+        "category": "Waffle",
+        "price": 14.90
+    },
+    {
+        "id": 2,
+        "image": {
+            "thumbnail": "./images/image-creme-brulee-thumbnail.jpg",
+            "desktop": "./images/image-creme-brulee-desktop.jpg"
+        },
+        "name": "Crème Brûlée de Baunilha",
+        "category": "Crème Brûlée",
+        "price": 28.00
+    },
+    {
+        "id": 3,
+        "image": {
+            "thumbnail": "./images/image-macaron-thumbnail.jpg",
+            "desktop": "./images/image-macaron-desktop.jpg"
+        },
+        "name": "Mix de Cinco Macarons",
+        "category": "Macaron",
+        "price": 12.00
+    },
+    {
+        "id": 4,
+        "image": {
+            "thumbnail": "./images/image-tiramisu-thumbnail.jpg",
+            "desktop": "./images/image-tiramisu-desktop.jpg"
+        },
+        "name": "Tiramisu Clássico",
+        "category": "Tiramisu",
+        "price": 24.00
+    },
+    {
+        "id": 5,
+        "image": {
+            "thumbnail": "./images/image-baklava-thumbnail.jpg",
+            "desktop": "./images/image-baklava-desktop.jpg"
+        },
+        "name": "Baklava de Pistache",
+        "category": "Baklava",
+        "price": 18.00
+    },
+    {
+        "id": 6,
+        "image": {
+            "thumbnail": "./images/image-meringue-thumbnail.jpg",
+            "desktop": "./images/image-meringue-desktop.jpg"
+        },
+        "name": "Torta de Limão com Merengue",
+        "category": "Torta",
+        "price": 22.00
+    },
+    {
+        "id": 7,
+        "image": {
+            "thumbnail": "./images/image-cake-thumbnail.jpg",
+            "desktop": "./images/image-cake-desktop.jpg"
+        },
+        "name": "Bolo Red Velvet",
+        "category": "Bolo",
+        "price": 20.00
+    },
+    {
+        "id": 8,
+        "image": {
+            "thumbnail": "./images/image-brownie-thumbnail.jpg",
+            "desktop": "./images/image-brownie-desktop.jpg"
+        },
+        "name": "Brownie de Caramelo Salgado",
+        "category": "Brownie",
+        "price": 16.00
+    },
+    {
+        "id": 9,
+        "image": {
+            "thumbnail": "./images/image-panna-cotta-thumbnail.jpg",
+            "desktop": "./images/image-panna-cotta-desktop.jpg"
+        },
+        "name": "Panna Cotta de Baunilha",
+        "category": "Panna Cotta",
+        "price": 26.00
+    }
+]
