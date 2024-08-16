@@ -1,5 +1,5 @@
 import styled from 'styled-components';
-import { GlobalStyle } from "./globalStyle";
+import { GlobalStyle } from "./GlobalStyle";
 import Header from "./components/Header";
 import ProductSection from './components/ProductSection';
 import CartProvider from './contexts/CartContext';

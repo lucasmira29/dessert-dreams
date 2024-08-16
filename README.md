@@ -17,4 +17,3 @@
 - **Visualização de Produtos**: Exibe uma lista de sobremesas com imagens, descrições e preços.
 - **Carrinho de Compras**: Permite adicionar, remover e ajustar a quantidade de itens no carrinho.
 - **Finalização de Pedido**: Simula a confirmação de um pedido com um modal de carregamento.
-
